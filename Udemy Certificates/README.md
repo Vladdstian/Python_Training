@@ -9,6 +9,6 @@ Here is a complete list of certificates:
 I am proud to have completed the "Complete Python Bootcamp From Zero to Hero in Python" course on Udemy. This course provided me with a strong foundation in the Python programming language, from beginner to more advanced topics. The certificate can be viewed at the above link.
 
 
-### - [The Git & Github Bootcamp](ude.my/UC-a5207a99-8ce8-49f3-9329-2edd9ca18240)
+### - [The Git & Github Bootcamp](http://ude.my/UC-a5207a99-8ce8-49f3-9329-2edd9ca18240)
 
 
