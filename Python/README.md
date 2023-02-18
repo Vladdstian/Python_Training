@@ -5,7 +5,7 @@ This folder contains my work for the 100 Days of Code challenge. I will use two 
 ### Courses
 
 * Udemy - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
-* Replit - [100 Days of Python](https://replit.com/learn/100-days-of-python/hub)
+* Replit - [100 Days of Python](https://replit.com/@Vladdstian)
 
 ### Work Updates
 
