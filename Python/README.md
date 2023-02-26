@@ -5,7 +5,10 @@ This folder contains my work for the 100 Days of Code challenge. I will use two 
 ### Courses
 
 * Udemy - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
-* Replit - [100 Days of Python](https://replit.com/@Vladdstian) - will update repplit directly from there
+
+### Books
+
+* Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming - Matthes Eric
 
 ### Work Updates
 
