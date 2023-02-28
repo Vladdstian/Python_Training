@@ -1,10 +1,10 @@
 nums = [3, 4, -1, 1]
 nums2 = [1,2,0]
 
-def check_lowest(nums):
-    pos_numbers = [num if num >= 0 else 0 for num in nums]
-    pos_numbers.sort()
-    return [num+1 for num in pos_numbers if num+1 not in nums][0]
-
+def check_lowest(nums_local):
+    nums_local.sort()
+    for num in nums_local:
+        if num+1>0 and num+1 not in nums_local:
+            return num+1
 print(check_lowest(nums))
 print(check_lowest(nums2))
