@@ -9,3 +9,8 @@ for x in array_int:
     new_array.append(prd)
 
 print(new_array)
+
+# enumerate() is a built-in function in Python that can be used to assign an index to each element in a sequence or iterable. 
+# Here's an example of how to use it:
+for index, value in enumerate(array_int):
+    print(index, value)
