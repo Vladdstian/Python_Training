@@ -1,7 +1,7 @@
-## My Personal Python, Linux, and Git Bootcamp!
+## My Personal Computer Science Bootcamp!
 
-### Welcome to my own personal Python, Linux, and Git Bootcamp repository! 
-This repository has been created specifically for me to help me learn these skills and improve coding abilities or learn them as a beginner. I will start with the Git course, since it will cover the most basics of how to work around here (expect lots of commits in the first days). I already have an understanding of Python and Linux, so those two can wait for now.
+### Welcome to my own personal Bootcamp repository! 
+This repository has been created specifically for me to help me learn computer science skills and improve my coding abilities or learn them as a beginner. I will start with the Git course, since it will cover the most basics of how to work around here (expect lots of commits in the first days). I already have an understanding of Python and Linux, so those two can wait for now.
 
 ### Tools:
 - VIM - I will be using Vim as the main code editor (because I hate myself and VSCode looks boring... joking but I want to learn Linux so most of the code in this repository will be done from the command line) (projects that involve GUI will be done in windows with VSCode)
@@ -14,3 +14,6 @@ This repository has been created specifically for me to help me learn these skil
 - Replit - 100 Days of Python
 - The Git & Github Bootcamp
 - some course for Linux - pending ... 
+
+### Certification Courses
+- Google Data Analytics Certification - (Coursera)[https://www.coursera.org/professional-certificates/google-data-analytics?]
