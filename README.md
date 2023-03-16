@@ -16,4 +16,4 @@ This repository has been created specifically for me to help me learn computer s
 - some course for Linux - pending ... 
 
 ### Certification Courses
-- Google Data Analytics Certification - (Coursera)[https://www.coursera.org/professional-certificates/google-data-analytics?]
+- Google Data Analytics Certification - [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
