@@ -1,7 +1,7 @@
 ## My Personal Computer Science Bootcamp!
 
-### Welcome to my own personal Bootcamp repository! 
-This repository has been created specifically for me to help me learn computer science skills and improve my coding abilities or learn them as a beginner. I will start with the Git course, since it will cover the most basics of how to work around here (expect lots of commits in the first days). I already have an understanding of Python and Linux, so those two can wait for now.
+### Welcome to my personal Bootcamp repository! 
+It has been created specifically for me to help me learn computer science skills and improve my coding abilities or learn them as a beginner. I will go through various courses and certifications in order to learn more of this field.
 
 ### Tools:
 - VIM - I will be using Vim as the main code editor (because I hate myself and VSCode looks boring... joking but I want to learn Linux so most of the code in this repository will be done from the command line) (projects that involve GUI will be done in windows with VSCode)
