@@ -8,11 +8,6 @@ My name is Vlad, and I am an aspiring software developer. I am currently explori
 ### Courses and Certifications
 The following are the courses and certifications that I am currently using to learn computer science and develop my skills:
 
-#### * CS50: Introduction to Computer Science: 
-Status: Pending
-
-This Harvard University course is providing me with a strong foundation in computer science concepts and theories, including algorithms, data structures, and computer systems.
-
 #### - The Git & Github Bootcamp: 
 Status: Finished
 
@@ -27,6 +22,11 @@ This Coursera certification program is helping me to develop my skills in data a
 Status: In Work
 
 This Udemy course is providing me with a comprehensive understanding of Python and its application in software development.
+
+#### - CS50: Introduction to Computer Science: 
+Status: Pending
+
+This Harvard University course is providing me with a strong foundation in computer science concepts and theories, including algorithms, data structures, and computer systems.
 
 #### - Linux Certification Course: 
 Status: Pending
