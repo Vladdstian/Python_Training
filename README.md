@@ -33,10 +33,10 @@ Status: Pending
 
 I am currently in the process of finding and enrolling in a course that will teach me the ins and outs of Linux, so I can become proficient in using it for development purposes. 
 
-#### - A Cloud Technology certification
+#### - AWS / Google / Azure - cloud certification
 Status: Pending
 
-#### - Web Development: Full stack: 
+#### - Web Development - Full stack: 
 Meta Frontend and Backend professional certificates
 Status: Pending
 
