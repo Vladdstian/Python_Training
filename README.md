@@ -13,30 +13,30 @@ Status: Finished
 
 This Udemy course is teaching me the fundamentals of version control and how to use Git and Github to manage my code projects.
 
-* Google Data Analytics Certification:
+* __Google Data Analytics Certification__:
 Status: Almost Finished
 
 This Coursera certification program is helping me to develop my skills in data analysis, which is a big interest for me.
 
-* 100 Days of Code: The Complete Python Pro Bootcamp for 2023: 
+* __100 Days of Code: The Complete Python Pro Bootcamp for 2023__: 
 Status: In Work
 
 This Udemy course is providing me with a comprehensive understanding of Python and its application in software development.
 
-* CS50: Introduction to Computer Science: 
+* __CS50: Introduction to Computer Science__: 
 Status: Pending
 
 This Harvard University course is providing me with a strong foundation in computer science concepts and theories, including algorithms, data structures, and computer systems.
 
-* Linux Certification Course: 
+* __Linux Certification Course__: 
 Status: Pending
 
 I am currently in the process of finding and enrolling in a course that will teach me the ins and outs of Linux, so I can become proficient in using it for development purposes. 
 
-* AWS / Google / Azure - cloud certification
+* __AWS / Google / Azure__ - cloud certification
 Status: Pending
 
-* Web Development - Full stack: 
+* __Web Development - Full stack__: 
 Meta Frontend and Backend professional certificates
 Status: Pending
 
