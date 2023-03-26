@@ -8,7 +8,7 @@ My name is Vlad, and I am an aspiring software developer. I am currently explori
 ### Courses and Certifications
 The following are the courses and certifications that I am currently using to learn computer science and develop my skills:
 
-* The Git & Github Bootcamp: 
+* __The Git & Github Bootcamp__: 
 Status: Finished
 
 This Udemy course is teaching me the fundamentals of version control and how to use Git and Github to manage my code projects.
