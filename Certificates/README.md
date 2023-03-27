@@ -4,7 +4,7 @@ More certificates will be added to this repository as I continue my learning jou
 
 Here is a complete list of certificates:
 
-### 1. Google Data Analytics:
+### 1. [Google Data Analytics](https://coursera.org/share/c9d1414dca70031df966576a09c47316):
 * [Google Data Analytics 1 - Foundations: Data, Data, Everywhere](https://coursera.org/share/e337f014e7bebad5a8fa7f9e22fc57d9)
 * [Google Data Analytics 2 - Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/680afff5c80a0a61e9ee81b1225844aa)
 * [Google Data Analytics 3 - Prepare Data for Exploration](https://coursera.org/share/36e2d5b4253f9b9d68b0dad3e34737f0)
