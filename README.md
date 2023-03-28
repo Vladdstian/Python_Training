@@ -8,30 +8,23 @@ My name is Vlad, and I am an aspiring software developer. I am currently explori
 ### Courses and Certifications
 The following are the courses and certifications that I am currently using to learn computer science and develop my skills:
 
+*Status: Finished:*
 * __The Git & Github Bootcamp__: 
-Status: Finished
-
 This Udemy course is teaching me the fundamentals of version control and how to use Git and Github to manage my code projects.
 
 * __Google Data Analytics Certification__:
-Status: Almost Finished
+This Google certification program is helping me to develop my skills in data analysis, which is a big interest for me.
 
-This Coursera certification program is helping me to develop my skills in data analysis, which is a big interest for me.
-
+*Status: In Work*
 * __100 Days of Code: The Complete Python Pro Bootcamp for 2023__: 
-Status: In Work
-
 This Udemy course is providing me with a comprehensive understanding of Python and its application in software development.
 
+* __NDG Linux Unhatched__: 
+A CISCO NETACADEMY course that will teach me the ins and outs of Linux, so I can become proficient in using it in my career. 
+
+*Status: Pending*
 * __CS50: Introduction to Computer Science__: 
-Status: Pending
-
 This Harvard University course is providing me with a strong foundation in computer science concepts and theories, including algorithms, data structures, and computer systems.
-
-* __Linux Certification Course__: 
-Status: Pending
-
-I am currently in the process of finding and enrolling in a course that will teach me the ins and outs of Linux, so I can become proficient in using it for development purposes. 
 
 * __AWS / Google / Azure__ - cloud certification
 Status: Pending
