@@ -22,16 +22,6 @@ This Udemy course is providing me with a comprehensive understanding of Python a
 * __NDG Linux Unhatched__: 
 A CISCO NETACADEMY course that will teach me the ins and outs of Linux, so I can become proficient in using it in my career. 
 
-*Status: Pending*
-* __CS50: Introduction to Computer Science__: 
-This Harvard University course is providing me with a strong foundation in computer science concepts and theories, including algorithms, data structures, and computer systems.
-
-* __AWS / Google / Azure__ - cloud certification
-Status: Pending
-
-* __Web Development - Full stack__: 
-Meta Frontend and Backend professional certificates
-Status: Pending
 
 ### How to Use This Repository
 Feel free to browse this repository and use it as a guiding resource for your own learning journey. If you have any questions, comments, or suggestions, please don't hesitate to reach out to me.
