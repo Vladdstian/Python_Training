@@ -16,7 +16,7 @@ This Udemy course is teaching me the fundamentals of version control and how to 
 This Google certification program is helping me to develop my skills in data analysis, which is a big interest for me.
 
 * __The Complete Python Bootcamp From Zero to Hero in Python__ :
-A good introduction for Python.
+A good introduction for Python .
 
 *Status: In Work:*
 * __100 Days of Code: The Complete Python Pro Bootcamp for 2023__: 
