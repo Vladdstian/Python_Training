@@ -19,12 +19,7 @@ This Google certification program is helping me to develop my skills in data ana
 A good introduction for Python .
 
 *Status: In Work:*
-* __100 Days of Code: The Complete Python Pro Bootcamp for 2023__: 
-This Udemy course is providing me with a comprehensive understanding of Python and its application in software development.
-
-* __NDG Linux Unhatched__: 
-A CISCO NETACADEMY course that will teach me the ins and outs of Linux, so I can become proficient in using it in my career. 
-
+* __Web Development - Java Bootcamp__: I have started a Java bootcamp that will be taught over the course of 7-8 months.
 
 ### How to Use This Repository
 Feel free to browse this repository and use it as a guiding resource for your own learning journey. If you have any questions, comments, or suggestions, please don't hesitate to reach out to me.
