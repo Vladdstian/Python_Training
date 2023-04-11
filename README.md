@@ -19,6 +19,9 @@ This Google certification program is helping me to develop my skills in data ana
 A good introduction for Python .
 
 *Status: In Work:*
+
+* __Codecademy - Learn Java: Introduction__
+
 * __Web Development - Java Bootcamp__: I have started a Java bootcamp that will be taught over the course of 7-8 months.
 
 ### How to Use This Repository
