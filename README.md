@@ -3,28 +3,29 @@
 Welcome to my Computer Science Learning Repository! This repository is a collection of everything I've learned in the field of computer science, including coursework and certifications. While I am currently using Python to reinforce the concepts and theories I'm learning, my primary focus is on building a strong foundation in computer science.
 
 ### About Me
-My name is Vlad, and I am an aspiring software developer. I am currently exploring various domains within computer science, with a focus on building a strong theoretical foundation. I am using Vim as my primary code editor, as I am interested in learning Linux and working from the command line. I have also installed Ubuntu Server on a tiny PC, which will be my primary development environment for this repository. Additionally, I use Windows and MobaXterm to connect to the tiny PC remotely and follow courses from Udemy.
+My name is Vlad, and I am an aspiring software developer. I am currently exploring various domains within computer science, with a focus on building a strong theoretical foundation.
 
-### Courses and Certifications
-The following are the courses and certifications that I am currently using to learn computer science and develop my skills:
+## Courses and Certifications
 
-*Status: Finished:*
-* __The Git & Github Bootcamp__: 
-This Udemy course is teaching me the fundamentals of version control and how to use Git and Github to manage my code projects.
+The following are courses and certifications that I have finished or I am currently using to learn computer science and develop my skills:
 
-* __Google Data Analytics Certification__:
-This Google certification program is helping me to develop my skills in data analysis, which is a big interest for me.
+### 1. [Google Data Analytics](https://coursera.org/share/c9d1414dca70031df966576a09c47316):
+* [Google Data Analytics 1 - Foundations: Data, Data, Everywhere](https://coursera.org/share/e337f014e7bebad5a8fa7f9e22fc57d9)
+* [Google Data Analytics 2 - Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/680afff5c80a0a61e9ee81b1225844aa)
+* [Google Data Analytics 3 - Prepare Data for Exploration](https://coursera.org/share/36e2d5b4253f9b9d68b0dad3e34737f0)
+* [Google Data Analytics 4 - Process Data from Dirty to Clean](https://coursera.org/share/1e55a8323741b62ca7250cdc71c22150)
+* [Google Data Analytics 5 - Analyze Data to Answer Questions](https://coursera.org/share/1f11919cad460e694eb1412967f934e8)
+* [Google Data Analytics 6 - Share Data Through the Art of Visualization](https://coursera.org/share/d1c4f7b33939b9afe79495ca903ad939)
+* [Google Data Analytics 7 - Data Analysis with R Programming](https://coursera.org/share/add80545a0fbf2c938933afe8c085300)
+* [Google Data Analytics 8 - Capstone Project](https://coursera.org/share/eb4e8f78d9555cb278e6fab911912c8e)
 
-* __The Complete Python Bootcamp From Zero to Hero in Python__ :
-A good introduction for Python .
+### 2. [Complete Python Bootcamp From Zero to Hero in Python](http://ude.my/UC-572adedd-3fe4-4906-b603-215fb4969800)
 
-*Status: In Work:*
+### 3. [The Git & Github Bootcamp](http://ude.my/UC-a5207a99-8ce8-49f3-9329-2edd9ca18240)
 
-* __Codecademy - Learn Java: Introduction__
+### 4. Web development Bootcamp - Java
 
-* __Web Development - Java Bootcamp__: I have started a Java bootcamp that will be taught over the course of 7-8 months.
-
-### How to Use This Repository
+## How to Use This Repository
 Feel free to browse this repository and use it as a guiding resource for your own learning journey. If you have any questions, comments, or suggestions, please don't hesitate to reach out to me.
 
 ### Contributions
