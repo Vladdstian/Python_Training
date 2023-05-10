@@ -3,9 +3,9 @@
 ## 🌱 About Me
 
 - 🎓 I'm a System Test Engineer
-- 💻 I work with Python, Excel, and Google Sheets
+- 💻 I work with Java, Python, Excel, and Google Sheets
 - 🌍 I'm from Bucharest, Romania
-- 🌟 My interests include gaming, my motorcycle, technology
+- 🌟 My interests include reading, cooking, technology, gaming, my motorcycle
 
 ## 📫 How to reach me:
 
