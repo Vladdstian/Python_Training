@@ -16,12 +16,12 @@
 - [Email](mailto:contact@vladnichifor.com)
 
 
-## 🛠️ My Skills & Tools:
+<!--## 🛠️ My Skills & Tools:
 
 - **Languages:** Java, Python, R
 - **Tools:** Git, Linux, VSCode
 - **Databases:** BigQuerry
-<!-- **Frameworks/Libraries:** [mention the frameworks or libraries you've worked with, e.g., React, Angular, Django]]-->
+- **Frameworks/Libraries:** [mention the frameworks or libraries you've worked with, e.g., React, Angular, Django]]-->
 
 ## 🏆 My Achievements:
 
